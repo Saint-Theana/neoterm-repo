@@ -1,0 +1,15 @@
+Codename: stable
+Version: 1
+Architectures: all aarch64
+Description: NeoTerm stable packages
+Suite: stable
+Date: Sat, 13 Jul 2019 06:07:40 UTC
+SHA256:
+ 6bdba1d2a4ddc8753ef21d5dd787684a53ca6b82ba1b8b036b7570f3dde027cc 11652 main/binary-all/Packages.xz
+ 16d4a998a15600240c3d8d9e854a805976cffe002a127d63bbf5566f7fce7818 45498 main/binary-all/Packages
+ 45b90767d3591f3c4fca2d6ef311b68e620828167594236849ee791c4f79b358 215616 main/binary-aarch64/Packages.xz
+ 33f129d3a276f058578b8fad407480130130d952ec15ad7b6d9ae2a49b28f58f 1031065 main/binary-aarch64/Packages
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275 32 extra/binary-all/Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 extra/binary-all/Packages
+ c7b34080f7f580607770e839acadda527a2f4d9cfec35add96f1898d4f94a187 492 extra/binary-aarch64/Packages.xz
+ d233d3c210db2b41f5b5ae7e153c8f227d6c4622b928358deb34e1693e519192 583 extra/binary-aarch64/Packages

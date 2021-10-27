@@ -1,0 +1,1333 @@
+Package: ack-grep
+Version: 2.18
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 168
+Depends: perl, coreutils
+Filename: dists/stable/main/binary-all/ack-grep_2.18_all.deb
+Size: 36872
+MD5sum: c109bd318ab8d6919ed1fc7291cd8b6a
+SHA1: 5f7db3cbedb23cf5a043d05ac305d1c948713c8a
+SHA256: 51356e3f036e3fa022a95129a1054e1874a66682ec209fd314e1a4115ae20fbc
+Homepage: https://beyondgrep.com/
+Description: Tool like grep optimized for programmers
+
+Package: ack-grep
+Version: 2.20
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 168
+Depends: perl, coreutils
+Filename: dists/stable/main/binary-all/ack-grep_2.20_all.deb
+Size: 36732
+MD5sum: 0dfd14824f3247106e061bd444e02b5b
+SHA1: af0cd52e2ce5b37e71428e5c8ad3fd386a9ef364
+SHA256: 103d7430f6f8cfa2b1edc35c4fb905082cb392cf8034b68732bfb2ee46d53cdf
+Homepage: https://beyondgrep.com/
+Description: Tool like grep optimized for programmers
+
+Package: apksigner
+Version: 0.4
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 3916
+Filename: dists/stable/main/binary-all/apksigner_0.4_all.deb
+Size: 1146724
+MD5sum: 30c0bc82abfc634c5754d177242585a2
+SHA1: 2e5d2c7b06a38b3dd388d2f652f480ab727eed11
+SHA256: e6eeb81b16350c17ab8f898be3689e92cb3e6f84766217bbd54abcda6c2fd729
+Homepage: https://github.com/fornwall/apksigner
+Description: APK signing tool
+
+Package: asciinema
+Version: 1.4.0
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 88
+Depends: python, ncurses-utils
+Filename: dists/stable/main/binary-all/asciinema_1.4.0_all.deb
+Size: 32680
+MD5sum: 696437a8fc937015b645fd0b68b06a46
+SHA1: 00dcebf6542e0107a44a910c96db18448247ac9c
+SHA256: 5efe52930e2da616b37008c6d8db016864f1e7617a6538ee10cb023669ddad16
+Homepage: https://asciinema.org/
+Description: Record and share your terminal sessions, the right way
+
+Package: autoconf
+Version: 2.69
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1948
+Depends: m4, make, perl
+Filename: dists/stable/main/binary-all/autoconf_2.69_all.deb
+Size: 272116
+MD5sum: 87a4fca79e9854cd6f0f2fa21921a12d
+SHA1: 8130969e16daa36ee6b13bbbba86a5dc0b306ce5
+SHA256: c1a39c2781c3dbbcb3e20dc4be0956ae6e6240259a73412bf29fc2e971d1eda7
+Homepage: http://www.gnu.org/software/autoconf/autoconf.html
+Description: Creator of shell scripts to configure source code packages
+
+Package: automake
+Version: 1.15-1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1880
+Depends: autoconf
+Filename: dists/stable/main/binary-all/automake_1.15-1_all.deb
+Size: 305536
+MD5sum: a789e31054578ede3d73eb0012ef6afc
+SHA1: d0ae12fd9fb5c0c8cc8fededc6b8ff448836d143
+SHA256: d509b19108385be2130aa152f6919d60d8b8db44c21008ed75ed23ffe81b1fcc
+Homepage: http://www.gnu.org/software/automake/
+Description: Tool for automatically generating Makefile.in files
+
+Package: automake
+Version: 1.15.1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1936
+Depends: autoconf
+Filename: dists/stable/main/binary-all/automake_1.15.1_all.deb
+Size: 316180
+MD5sum: fedd80532f06ea2bb580582ef933820e
+SHA1: ab77004a81c548dd29304ccc5cda3323cce0b7f8
+SHA256: 146e01f8c565d82b14322766f465f3318ee48b7c68d802f518fd6b08a2d34f84
+Homepage: https://www.gnu.org/software/automake/
+Description: Tool for automatically generating Makefile.in files
+
+Package: bash-completion
+Version: 2.5-1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 2060
+Depends: bash
+Filename: dists/stable/main/binary-all/bash-completion_2.5-1_all.deb
+Size: 143276
+MD5sum: 9b1c16d6630f201b90c57d30a40932d2
+SHA1: b70a30b45600a308d52a9c3bcea45013abeff12e
+SHA256: d2c3e2c14f31c0ced7dd95efff703e25ab960aa4a37a53bca81020889f972c3c
+Homepage: https://github.com/scop/bash-completion
+Description: Programmable completion for the bash shell
+
+Package: bash-completion
+Version: 2.7
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 2076
+Depends: bash
+Filename: dists/stable/main/binary-all/bash-completion_2.7_all.deb
+Size: 144160
+MD5sum: 5b6a6c1bca6da10be80b80761f3dc947
+SHA1: 332b1bcd0d200ad1ae5fccf2564013e4b6bb5a24
+SHA256: 35097e002695b7eb372b7a9f46e9adfb1f3dfa22cfa6913e9bf3fb63806d2e25
+Homepage: https://github.com/scop/bash-completion
+Description: Programmable completion for the bash shell
+
+Package: byobu
+Version: 5.117
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 848
+Depends: gawk, tmux
+Filename: dists/stable/main/binary-all/byobu_5.117_all.deb
+Size: 72252
+MD5sum: bd0867ecaeac418bd90322bc5f3eab89
+SHA1: de63689adb33cebec9ebabde11bf4e6fd3e48dea
+SHA256: e6099408d226d69b689b46cf2a0ce2973ab90327d0ba7c20195e412074029058
+Homepage: http://byobu.co/
+Description: Byobu is a GPLv3 open source text-based window manager and terminal multiplexer
+
+Package: byobu
+Version: 5.119
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 848
+Depends: gawk, tmux
+Filename: dists/stable/main/binary-all/byobu_5.119_all.deb
+Size: 72284
+MD5sum: ca72a17ab34e0c800b433961f2621bfd
+SHA1: ebb1745c0133b6b4a0a9778227528820aee1723b
+SHA256: 4be98c50f4266c7c044bfe83d955a822492052daff08eab8ac37f98cac8f7476
+Homepage: http://byobu.co/
+Description: Byobu is a GPLv3 open source text-based window manager and terminal multiplexer
+
+Package: byobu
+Version: 5.122
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 848
+Depends: gawk, tmux
+Filename: dists/stable/main/binary-all/byobu_5.122_all.deb
+Size: 72156
+MD5sum: 9b9ffc0f58aa6e6cffcf8821a56bcfdc
+SHA1: e98f2941038a6653a274f9fdfc30c6a9c97a21aa
+SHA256: da55c758eba129d61c65f8c184c6b369759857890170144d748969dd751c8db2
+Homepage: http://byobu.co/
+Description: Byobu is a GPLv3 open source text-based window manager and terminal multiplexer
+
+Package: byobu
+Version: 5.122-1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 848
+Depends: gawk, tmux
+Filename: dists/stable/main/binary-all/byobu_5.122-1_all.deb
+Size: 72152
+MD5sum: 9abb773e961e05cf6c435b362e9d876f
+SHA1: 8c823642d72f62a5d80332666794b131c68d662a
+SHA256: 48936a4819691957f7c9b93e3bdbce9f6a123c6c8b8f449fe6d16865fd3d71ee
+Homepage: http://byobu.co/
+Description: Byobu is a GPLv3 open source text-based window manager and terminal multiplexer
+
+Package: byobu
+Version: 5.123
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 848
+Depends: gawk, tmux
+Filename: dists/stable/main/binary-all/byobu_5.123_all.deb
+Size: 72496
+MD5sum: 6c2f1a8b19412645b8f0754a32ac42ca
+SHA1: aa68efac0f0171304fa6f28e2dab6c2fa18679a9
+SHA256: dda2c5266d4b519b2336c8faf0c449067e9713e1a8271a6846abfcb58b889616
+Homepage: http://byobu.co/
+Description: Byobu is a GPLv3 open source text-based window manager and terminal multiplexer
+
+Package: ca-certificates
+Version: 20170117
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 288
+Filename: dists/stable/main/binary-all/ca-certificates_20170117_all.deb
+Size: 140924
+MD5sum: 6485afa948875289670530e8df1f6fbd
+SHA1: 69143ff3cbdea0cbebb82e4c612026d49aedcb9c
+SHA256: cd958757fe1c6befdfda63489b21c47e2da93c7640939a5511903a182b1c1f5b
+Homepage: https://curl.haxx.se/docs/caextract.html
+Description: Common CA certificates
+
+Package: ca-certificates
+Version: 20170607
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 284
+Filename: dists/stable/main/binary-all/ca-certificates_20170607_all.deb
+Size: 138196
+MD5sum: fbf6a99d689000e94c1c7ec32b2cf9a7
+SHA1: f6242ffdaef173ce7bff7ea5c7576530756240fa
+SHA256: 3120a076fed01d472c5317696c17fc8fb47b5f1d6916d69c2cbf863f95d668c5
+Homepage: https://curl.haxx.se/docs/caextract.html
+Description: Common CA certificates
+
+Package: ca-certificates
+Version: 20170920
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 264
+Filename: dists/stable/main/binary-all/ca-certificates_20170920_all.deb
+Size: 128132
+MD5sum: bada730082bff57dbbb8073eafddf03c
+SHA1: d0cc0010779d1203ab380aa98187b690674567d1
+SHA256: b68a8aa39b0cc7425e0eddfae4d7212e9ef84293c2461010ec33a8f0c04df31c
+Homepage: https://curl.haxx.se/docs/caextract.html
+Description: Common CA certificates
+
+Package: ca-certificates-java
+Version: 20170117
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 236
+Filename: dists/stable/main/binary-all/ca-certificates-java_20170117_all.deb
+Size: 126736
+MD5sum: 51154ffa9457bf69103afb09d6906847
+SHA1: 53a9d94b506a2f5b17bde863988b7f29d6346984
+SHA256: 338df9f2054136a35a348177234bc6d7819b111977bab0564d9567386e2e7317
+Homepage: https://curl.haxx.se/docs/caextract.html
+Description: Common CA certificates (java keystore format)
+
+Package: ca-certificates-java
+Version: 20170607
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 232
+Filename: dists/stable/main/binary-all/ca-certificates-java_20170607_all.deb
+Size: 124440
+MD5sum: 248d3c4c96b534dc62ebed41136a12fe
+SHA1: 5975ea1bb678822fae1d26e7c2e6e01b4a193faf
+SHA256: 9fe9212d6d363a9f1719832efc609a3c63be2930953ddd5ae13fb01815e7ebec
+Homepage: https://curl.haxx.se/docs/caextract.html
+Description: Common CA certificates (java keystore format)
+
+Package: ca-certificates-java
+Version: 20170920
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 216
+Filename: dists/stable/main/binary-all/ca-certificates-java_20170920_all.deb
+Size: 115256
+MD5sum: ed25298bddd7493293707f8b6c1972fd
+SHA1: d92864257233fb37e6a80246ebb8e005024fd56e
+SHA256: 6cbaa7740d53773b136fbff2140417b4ace6ea7e601da06d05d715950e32a776
+Homepage: https://curl.haxx.se/docs/caextract.html
+Description: Common CA certificates (java keystore format)
+
+Package: colordiff
+Version: 1.0.18
+Architecture: all
+Maintainer: Oliver Schmidhauser @Neo-Oli
+Installed-Size: 84
+Depends: perl
+Filename: dists/stable/main/binary-all/colordiff_1.0.18_all.deb
+Size: 8784
+MD5sum: f3278475057725d953b8aabc1c0b1cac
+SHA1: c9a9e70e7a2952f1c5059a96f9284dffb70a3f63
+SHA256: 5d0e3d9ebc634b2b4e9e7473065610dd34a33433b88dcdeaa4f41b1247df0cc1
+Homepage: http://www.colordiff.org
+Description: Tool to colorize 'diff' output
+
+Package: cowsay
+Version: 3.03
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 220
+Depends: perl
+Filename: dists/stable/main/binary-all/cowsay_3.03_all.deb
+Size: 10236
+MD5sum: 6d1ff89e332fddf022bb07c6082a69c7
+SHA1: f856d288885e8b181a3cf41dbb47f7359041c1fe
+SHA256: 9463f57e2e5c647384febb0d7318734ec5523a2d3b650b6aa597a34cf24d940f
+Homepage: https://en.wikipedia.org/wiki/Cowsay
+Description: Program which generates ASCII pictures of a cow with a message
+
+Package: debootstrap
+Version: 1.0.91-1
+Architecture: all
+Maintainer: Pierre Rudloff @Rudloff
+Installed-Size: 256
+Depends: wget, proot, perl
+Filename: dists/stable/main/binary-all/debootstrap_1.0.91-1_all.deb
+Size: 26380
+MD5sum: 61f1906d1484652f8336c1c1bea6fbe7
+SHA1: 07b782d24ff822e4bf8816096a123faf60a849f3
+SHA256: 88174fd7577941d501ca44d079a8f947a1bb5dd5c389413586fe450060fb59a8
+Homepage: https://wiki.debian.org/Debootstrap
+Description: Bootstrap a basic Debian system
+
+Package: debootstrap
+Version: 1.0.92
+Architecture: all
+Maintainer: Pierre Rudloff @Rudloff
+Installed-Size: 256
+Depends: wget, proot, perl
+Filename: dists/stable/main/binary-all/debootstrap_1.0.92_all.deb
+Size: 26268
+MD5sum: 11ffb066f1a401615d3630c786a52308
+SHA1: 80b70ebef73385037278b4c0bcf1e8514924a754
+SHA256: fe5a62cfb27da2d5f3c1c2369e1c703e06fa0736718ede94063e4d62a9180e52
+Homepage: https://wiki.debian.org/Debootstrap
+Description: Bootstrap a basic Debian system
+
+Package: debootstrap
+Version: 1.0.93
+Architecture: all
+Maintainer: Pierre Rudloff @Rudloff
+Installed-Size: 256
+Depends: wget, proot, perl
+Filename: dists/stable/main/binary-all/debootstrap_1.0.93_all.deb
+Size: 26224
+MD5sum: 65fc0728503124a4d9ee38b6ecd63d0e
+SHA1: a0499b425e21d47a15fcbef5f62b343eb7af3b84
+SHA256: 7fa8036ff598e642e19e43993f89bee98399e3ed833eff91107c027acd8c4eae
+Homepage: https://wiki.debian.org/Debootstrap
+Description: Bootstrap a basic Debian system
+
+Package: dx
+Version: 25.0.3
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 776
+Filename: dists/stable/main/binary-all/dx_25.0.3_all.deb
+Size: 247248
+MD5sum: c944ef86357b669a80648660b026f21d
+SHA1: 650dd9ffa62726853804fdd3dbee0f61075b2245
+SHA256: 9e4cda9383ef8270b90530cca0d0e060c1840bce0a2e71eba884b785c4c9b0c8
+Homepage: http://developer.android.com/tools/help/index.html
+Description: Command which takes in class files and reformulates them for usage on Android
+
+Package: dx
+Version: 26.0.1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 848
+Filename: dists/stable/main/binary-all/dx_26.0.1_all.deb
+Size: 282952
+MD5sum: 03f685c413f22435230aa716347c522f
+SHA1: ede8ba554c30dc3bc885a7ff0606e67e97bf4cf2
+SHA256: 271e74ba514b14722d7b910f3c8a8fc1bd1309b0a32cd678c28645521b4707ad
+Homepage: http://developer.android.com/tools/help/index.html
+Description: Command which takes in class files and reformulates them for usage on Android
+
+Package: dx
+Version: 27.0.1-1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 868
+Filename: dists/stable/main/binary-all/dx_27.0.1-1_all.deb
+Size: 290832
+MD5sum: 5333a52a7e1fea7fa2b8ad3c806a3097
+SHA1: 75df5a6813ba9bc834f405e479a1483f4c412b61
+SHA256: e6d23b2ff7f2af36b8fa3e0f5844dd3228efbe42327b326434d3678746d6e571
+Homepage: http://developer.android.com/tools/help/index.html
+Description: Command which takes in class files and reformulates them for usage on Android
+
+Package: ecj
+Version: 4.6.2
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 4620
+Filename: dists/stable/main/binary-all/ecj_4.6.2_all.deb
+Size: 3927464
+MD5sum: 61ac539ae566079c0037f8ddc0133640
+SHA1: 0942b9e82e5e117229422e108d02c85e3a863d11
+SHA256: 6ef4306d58fb0da58364e6c76b6a2b61cfc6eddbc96433d3a527325c84f00a97
+Homepage: http://www.eclipse.org/jdt/core/
+Description: Eclipse Compiler for Java
+
+Package: getmail
+Version: 4.54.0
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 376
+Depends: python2
+Filename: dists/stable/main/binary-all/getmail_4.54.0_all.deb
+Size: 49624
+MD5sum: b5c1e2a443bc15a5f80dbf2ee3eeb78a
+SHA1: 41f0ce1eb892e34d9f25484e1f8b8801dae6edd1
+SHA256: 4b4d497e5c86c8dfef2d213c0e0f5474acf8dbfd45b4ef986c0514d6a09df9c0
+Homepage: http://pyropus.ca/software/getmail/
+Description: fetchmail replacement relatively easy to configure
+
+Package: getmail
+Version: 5.1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 376
+Depends: python2
+Filename: dists/stable/main/binary-all/getmail_5.1_all.deb
+Size: 50196
+MD5sum: 36f65ef0e212762475ae670968a09e2c
+SHA1: 8e268e9546642bd5df9f86145b2fe9bacbb0ec1b
+SHA256: 0cf877dcefaadccd48cb4e9cf6f85ab2118c852f3d58f5f9945f358860d50577
+Homepage: http://pyropus.ca/software/getmail/
+Description: fetchmail replacement relatively easy to configure
+
+Package: getmail
+Version: 5.4
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 376
+Depends: python2
+Filename: dists/stable/main/binary-all/getmail_5.4_all.deb
+Size: 50120
+MD5sum: f2a7299d9e9225955bc0757de0ae910d
+SHA1: 6f3ba47a163a61c02c71b625f70aba2dc9d679fb
+SHA256: 9a529b86e6509e5cd857773472173ba140d1d4661fe630863c5766432a2210d5
+Homepage: http://pyropus.ca/software/getmail/
+Description: fetchmail replacement relatively easy to configure
+
+Package: hunspell-en-us
+Version: 2017.03.03-1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 572
+Filename: dists/stable/main/binary-all/hunspell-en-us_2017.03.03-1_all.deb
+Size: 160116
+MD5sum: 691982d6a8243e73a7ba2ec1e9c887de
+SHA1: 7a0f864fffb263ecf2d92448043230b2597798f5
+SHA256: b7291971616acfde1e203c6f3eab67c4ead79b247ce614e304c217f76c1471e3
+Homepage: https://hunspell.github.io
+Description: American english dictionary for hunspell
+
+Package: hunspell-en-us
+Version: 2017.10.27
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 572
+Filename: dists/stable/main/binary-all/hunspell-en-us_2017.10.27_all.deb
+Size: 160468
+MD5sum: 34cb7ab28d0401555d3e1d42b50ee9e5
+SHA1: d31300935ef34f98ebb79d66dad39d38da9c2c47
+SHA256: 12bc46139d61506b9c08384d65dd87612ab6ec675f345a9652eb9d73f5cc875f
+Homepage: https://hunspell.github.io
+Description: American english dictionary for hunspell
+
+Package: hunspell-ru
+Version: 2017.03.03
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 2008
+Filename: dists/stable/main/binary-all/hunspell-ru_2017.03.03_all.deb
+Size: 421568
+MD5sum: 0d963db7010271c7f68fbdd2e2a153da
+SHA1: 5b413901171823ae7c3183907b2b1dd9d4a466ba
+SHA256: e1f2864c71e92d63b608f6f8af23e5ffbd47dde5b8edd667114a6ff12b9e2059
+Homepage: https://hunspell.github.io
+Description: Russian dictionary for hunspell
+
+Package: linux-man-pages
+Version: 4.11
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 23792
+Depends: man
+Filename: dists/stable/main/binary-all/linux-man-pages_4.11_all.deb
+Size: 2187064
+MD5sum: 90d04a1e7cb470da423a12ef40c5b8cf
+SHA1: a9a7c31cafe55f870ade50d080bc5d01aa4d1597
+SHA256: 0f650d864b28fd641ca38aa0c85316296f5b75f58c5582127db9463569e9cf71
+Homepage: https://www.kernel.org/doc/man-pages/
+Description: Man pages for linux kernel and C library interfaces
+
+Package: linux-man-pages
+Version: 4.13
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 23928
+Depends: man
+Filename: dists/stable/main/binary-all/linux-man-pages_4.13_all.deb
+Size: 2216952
+MD5sum: bc8bc9215b74d9529b6a958f5dfe0103
+SHA1: a2fb751d572265488b6266af31088a3923963440
+SHA256: 00f5cc3c2272ad1a3fdd5df8ff55e34e3988d65161f8031f66c3ad1658e4972b
+Homepage: https://www.kernel.org/doc/man-pages/
+Description: Man pages for linux kernel and C library interfaces
+
+Package: luarocks
+Version: 2.4.2
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 692
+Depends: curl, lua
+Filename: dists/stable/main/binary-all/luarocks_2.4.2_all.deb
+Size: 89944
+MD5sum: 9692d52cda912cd1ce19a46d4eb75637
+SHA1: 4a12a91d5e4b94dc5831e90c8a9432cc836d946d
+SHA256: 668095e9561a590dd2c97412a62e0141cf03262cadd03ea2d4719055b7aeab76
+Homepage: https://luarocks.org/
+Description: Deployment and management system for Lua modules
+
+Package: luarocks
+Version: 2.4.3
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 696
+Depends: curl, lua
+Filename: dists/stable/main/binary-all/luarocks_2.4.3_all.deb
+Size: 90980
+MD5sum: d685f99ce086c9df76b893bef483ede5
+SHA1: c4cd7cdcaaedaf69c70e9743651165dd3b485df1
+SHA256: 9681398342484a5c088cfbbf28ec2ead2fb67a0790099cb8dc6bb8da9c42c335
+Homepage: https://luarocks.org/
+Description: Deployment and management system for Lua modules
+
+Package: mime-support
+Version: 3.60
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 52
+Conflicts: mutt (<< 1.8.3-1)
+Filename: dists/stable/main/binary-all/mime-support_3.60_all.deb
+Size: 7444
+MD5sum: 438a82d7137ffac7956fce8211819729
+SHA1: e4064aa3fa412d7e40b3301662eca84256699809
+SHA256: aab8be5eb8b3df34820b18c1dafb21a1eff7eb64a53b3804a4ff43a9063dfe7a
+Homepage: https://packages.debian.org/en/stretch/mime-support
+Description: MIME type associations for file types
+
+Package: ndk-multilib
+Version: 16-1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1004
+Filename: dists/stable/main/binary-all/ndk-multilib_16-1_all.deb
+Size: 114032
+MD5sum: 67ee3d49da930fd88f6043739dc073c9
+SHA1: 1803ec78c3dd9db39f9941badb18da8a6d207d36
+SHA256: a5ab2813ca2b8d8afd1e4d6cdbfe83feb56a29c0da9a72f2cb122c1be73db5d8
+Homepage: https://developer.android.com/tools/sdk/ndk/index.html
+Description: Multilib binaries for cross-compilation
+
+Package: neofetch
+Version: 3.1.0
+Architecture: all
+Maintainer: Muhammad Herdiansyah @konimex
+Installed-Size: 684
+Depends: bash
+Filename: dists/stable/main/binary-all/neofetch_3.1.0_all.deb
+Size: 57384
+MD5sum: 2ec45786eb4c2d62b3387805cf47acf0
+SHA1: 6baaa5edbd377fb527dacf2ee275ca125e23403e
+SHA256: f2c2dd42fc246b7da28e3ccba7c5c1360fd79befcef46362793c5fa6f2292a1d
+Homepage: https://github.com/dylanaraps/neofetch
+Description: Simple system information script
+
+Package: neofetch
+Version: 3.2.0
+Architecture: all
+Maintainer: Muhammad Herdiansyah @konimex
+Installed-Size: 712
+Depends: bash
+Filename: dists/stable/main/binary-all/neofetch_3.2.0_all.deb
+Size: 59460
+MD5sum: 52d3e77c707bd95196cdecdf6de42811
+SHA1: f04ac4ac671a6b45a168e9e5cc634ccf76d1e772
+SHA256: 429e544b80864bb1b0e68776b9e9a430b50fed12ccdb561fc3d1267b41613318
+Homepage: https://github.com/dylanaraps/neofetch
+Description: Simple system information script
+
+Package: neofetch
+Version: 3.2.0-1
+Architecture: all
+Maintainer: Muhammad Herdiansyah @konimex
+Installed-Size: 712
+Depends: bash
+Filename: dists/stable/main/binary-all/neofetch_3.2.0-1_all.deb
+Size: 59460
+MD5sum: 456d846a8e4b7a4ca2774967dac40027
+SHA1: 6202c418cc528a4b576d18f25368cd2d84c1ac77
+SHA256: cc091ce0fe94c492432652f8ae68e20c3aa69a38ca42c41b76fa55b7f2038204
+Homepage: https://github.com/dylanaraps/neofetch
+Description: Simple system information script
+
+Package: neofetch
+Version: 3.3.0
+Architecture: all
+Maintainer: Muhammad Herdiansyah @konimex
+Installed-Size: 772
+Depends: bash
+Filename: dists/stable/main/binary-all/neofetch_3.3.0_all.deb
+Size: 63164
+MD5sum: f133587756c546be32088df46ff4a5f9
+SHA1: 2c44571beb98e1d48c3e1d75140d56857286a46f
+SHA256: 19a9091451dddde393b19c2195453ee429ebaafcd9b74f73cc31e57676e22b63
+Homepage: https://github.com/dylanaraps/neofetch
+Description: Simple system information script
+
+Package: neoterm-core
+Version: 1.0
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 68
+Filename: dists/stable/main/binary-all/neoterm-core_1.0_all.deb
+Size: 1280
+MD5sum: 0fc766507ba084921b1f16dcbe75b8da
+SHA1: c378d1e5df0ac5e07c6bdabfd722250fbc67a7bf
+SHA256: 11f5afc1f503f42fbd950704040ebccce51ffe96891c45206a64098e748e8153
+Homepage: http://neoterm.studio
+Description: NeoTerm core programs adapting Android system tools
+
+Package: neoterm-core
+Version: 1.1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 68
+Filename: dists/stable/main/binary-all/neoterm-core_1.1_all.deb
+Size: 1280
+MD5sum: 07769389de341386e060ef2d768621e7
+SHA1: 4f10da4345a15d368fec98209e4ebd548f34fc2d
+SHA256: ba8188b4711d30116c120ee1fd33d93e6617e34422c709b3b650d9877c5167df
+Homepage: http://neoterm.studio
+Description: NeoTerm core programs adapting Android system tools
+
+Package: neoterm-core
+Version: 1.2
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 68
+Filename: dists/stable/main/binary-all/neoterm-core_1.2_all.deb
+Size: 1276
+MD5sum: 2dd754cc3ec9479ffbfdedc4c0aae178
+SHA1: d0fd1742bcf4fb9a1fe5c3879774bbe25180282d
+SHA256: 8f87eb48da6cfd2e8392fd3ebe0ff670e7e705d9977d7f152c18cc303a283105
+Homepage: http://neoterm.studio
+Description: NeoTerm core programs adapting Android system tools
+
+Package: neoterm-core
+Version: 1.3
+Architecture: all
+Maintainer: Kiva @zt515
+Installed-Size: 68
+Filename: dists/stable/main/binary-all/neoterm-core_1.3_all.deb
+Size: 1288
+MD5sum: 6a75810606971337f873209763bfb80e
+SHA1: cba3814350dae0d4cb71c4410c3f3374a9a310ed
+SHA256: a1d6cdd1b68a9a317e571ddd942f261e1424e1ad142f9fde4c4a6efb31ed87d1
+Homepage: http://neoterm.studio
+Description: NeoTerm core programs adapting Android system tools
+
+Package: oh-my-zsh
+Version: 1.0
+Architecture: all
+Maintainer: Kiva
+Installed-Size: 36
+Depends: zsh, git
+Filename: dists/stable/main/binary-all/oh-my-zsh_1.0_all.deb
+Size: 4424
+MD5sum: 766086661ff99e343cc65ac11558337a
+SHA1: 09f520852c935d0b63cca54b62963e4ceb4e602c
+SHA256: a220d48a27f0151920353f501c2892aad8ab997b7c3e25e0962232050b335989
+Homepage: https://github.com/robbyrussell/oh-my-zsh
+Description: A delightful community-driven framework for managing your zsh configuration
+
+Package: oh-my-zsh
+Version: 1.1
+Architecture: all
+Maintainer: Kiva
+Installed-Size: 36
+Depends: zsh, git
+Filename: dists/stable/main/binary-all/oh-my-zsh_1.1_all.deb
+Size: 4312
+MD5sum: 017aa2466fc5b8e4b96e74bb97501741
+SHA1: 643763d01f9b529c45ba5df5383ca7b5f5f3d78a
+SHA256: 94a140f4109339eb09617d01a970af614721f208ce4289d30c1bc83fdf344975
+Homepage: https://github.com/robbyrussell/oh-my-zsh
+Description: A delightful community-driven framework for managing your zsh configuration
+
+Package: oh-my-zsh
+Version: 1.2
+Architecture: all
+Maintainer: Kiva
+Installed-Size: 36
+Depends: zsh, git
+Filename: dists/stable/main/binary-all/oh-my-zsh_1.2_all.deb
+Size: 4304
+MD5sum: 89ba0590ac925db6a167786ab5789b8f
+SHA1: d41d8c6e8771209faa21de09ec8ed321641a3204
+SHA256: 7e83e7c576347633717a96bc676964b0fb3253d7e1d56d8242aef0dfad1ad966
+Homepage: https://github.com/robbyrussell/oh-my-zsh
+Description: A delightful community-driven framework for managing your zsh configuration
+
+Package: oh-my-zsh
+Version: 1.4
+Architecture: all
+Maintainer: Kiva
+Installed-Size: 36
+Depends: zsh, git
+Filename: dists/stable/main/binary-all/oh-my-zsh_1.4_all.deb
+Size: 4328
+MD5sum: efdb028d7978f6b202e6681644973498
+SHA1: 15d3481bde9a006e15b475f4b9a676af9dfbd977
+SHA256: 45522880137d1c34f1abf00025dad42413cda6bb1f70a8e7266383e66918014e
+Homepage: https://github.com/robbyrussell/oh-my-zsh
+Description: A delightful community-driven framework for managing your zsh configuration
+
+Package: openjdk-9-source
+Version: 9.2017.8.20
+Architecture: all
+Maintainer: Vishal Biswas @vishalbiswas
+Installed-Size: 64960
+Depends: openjdk-9-jre-headless
+Filename: dists/stable/main/binary-all/openjdk-9-source_9.2017.8.20_all.deb
+Size: 57801012
+MD5sum: 85c6c6310ca815e50ad839ff4286f816
+SHA1: c91e38002c731a4f4fb2dd7ea6a2fb5553eadc86
+SHA256: 2fe6a4755747f6bf6439148ffeb3afd8b98225a58e7b6fb31d0bc908131cd20b
+Homepage: http://openjdk.java.net/projects/jdk9
+Description: OpenJDK Development Kit (JDK) source files
+
+Package: openjdk-9-source
+Version: 9.2017.8.20-1
+Architecture: all
+Maintainer: Vishal Biswas @vishalbiswas
+Installed-Size: 64964
+Depends: openjdk-9-jre-headless
+Filename: dists/stable/main/binary-all/openjdk-9-source_9.2017.8.20-1_all.deb
+Size: 57807088
+MD5sum: 90a331928a7c82f4776cc97b89c5e1f1
+SHA1: e1fc40cb5a5062159771a66ccf4404ed4a375ff8
+SHA256: 103a2b6d64594d5c7b743cef30a6ed63226fe31e221639f75b9d4c7243ab2095
+Homepage: http://openjdk.java.net/projects/jdk9
+Description: OpenJDK Development Kit (JDK) source files
+
+Package: parallel
+Version: 20170522
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1000
+Depends: perl
+Filename: dists/stable/main/binary-all/parallel_20170522_all.deb
+Size: 184728
+MD5sum: 906f8de3b51de97199ac334b18cbad79
+SHA1: a7dad7cbb3a13397ae536a6462f4d036c891df2b
+SHA256: 151748e47fc3229d485c1c5cdf9643716d471f3b77c5c49fdfd83e8fc1e8d67e
+Homepage: http://www.gnu.org/software/parallel/
+Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
+
+Package: parallel
+Version: 20170722
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1012
+Depends: perl
+Filename: dists/stable/main/binary-all/parallel_20170722_all.deb
+Size: 187496
+MD5sum: c523a876fee74e2e9922436f225f2825
+SHA1: 6f500edefe7ba3ac654ed3d5c2b40c33a0733bce
+SHA256: aedc2baeedcd679906af520616dbe8636c36a0d1fe459b8615477fb69e828a9c
+Homepage: http://www.gnu.org/software/parallel/
+Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
+
+Package: parallel
+Version: 20170822
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1028
+Depends: perl
+Filename: dists/stable/main/binary-all/parallel_20170822_all.deb
+Size: 190172
+MD5sum: 8989f0d1974fb210698aa606d83903d5
+SHA1: 853d4788b0dbad5e6e7075b0cf290a0750ebeaf2
+SHA256: 013728f007c37192bc508232df2b3874e19f86f1ef431ccbdfc20bfa52e1befa
+Homepage: http://www.gnu.org/software/parallel/
+Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
+
+Package: parallel
+Version: 20170922
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1036
+Depends: perl
+Filename: dists/stable/main/binary-all/parallel_20170922_all.deb
+Size: 191552
+MD5sum: 7faf518fb76780c6a91128e650e42306
+SHA1: dd32abe773c13c60e74fa4810ed7534aeb2727e6
+SHA256: 20642e1c6cccb9552f7553ec3f647746162455ff1bdd52bfe3ec6877f5787d86
+Homepage: http://www.gnu.org/software/parallel/
+Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
+
+Package: parallel
+Version: 20171022
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1032
+Depends: perl
+Filename: dists/stable/main/binary-all/parallel_20171022_all.deb
+Size: 191876
+MD5sum: 41eecd1556424e767ebd80dbae4c7665
+SHA1: 6307b807e7dfa46388bc51f991d26f6f8d607218
+SHA256: f3c29602f0b5e2207574c4bfa481216a6d740f30781a467412b8c5e1bcd5e34e
+Homepage: http://www.gnu.org/software/parallel/
+Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
+
+Package: parallel
+Version: 20171122
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1044
+Depends: perl
+Filename: dists/stable/main/binary-all/parallel_20171122_all.deb
+Size: 193260
+MD5sum: 5b774170723a0a30a6c12274014f7eb5
+SHA1: dc3ca9a09b11b76ab405f925dd40807a0873687e
+SHA256: 0c95837e13ed15e540e35b5a18f110a0893294fd48049d62b784010fd550faf1
+Homepage: http://www.gnu.org/software/parallel/
+Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
+
+Package: parallel
+Version: 20171222
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1076
+Depends: perl
+Filename: dists/stable/main/binary-all/parallel_20171222_all.deb
+Size: 195264
+MD5sum: f6d80dc0a72318384cef673c6be7e8a7
+SHA1: e8adb9ae6883ca0e4e2d90c1d9afed2b64eae452
+SHA256: fc9e21e4d8842b12280fcbac95a53d2a2be95696ead8fd07b1fb7990082376b8
+Homepage: http://www.gnu.org/software/parallel/
+Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
+
+Package: pass
+Version: 1.7.1-1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 128
+Depends: bash, gnupg, tree
+Filename: dists/stable/main/binary-all/pass_1.7.1-1_all.deb
+Size: 15772
+MD5sum: 536da36b01dcdaaa47de06ecd980505c
+SHA1: 4e327615a402c7d917c3081a3566b165000f958a
+SHA256: 374600e2373faf4e8535e09cf63a2197f812d76daa86ea4bb0c750982cd748af
+Homepage: https://www.passwordstore.org/
+Description: Lightweight directory-based password manager
+
+Package: pass
+Version: 1.7.1-2
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 128
+Depends: bash, gnupg2, tree
+Filename: dists/stable/main/binary-all/pass_1.7.1-2_all.deb
+Size: 15776
+MD5sum: 34227ed1055d8d449afd6511f1f39a15
+SHA1: 56e2ebe5703b9941dd462250f74e5e5c841e961c
+SHA256: 4de846464e23eb5aa3cb4ecf62be88607be8614ce05b8bd322e0a290d73ab289
+Homepage: https://www.passwordstore.org/
+Description: Lightweight directory-based password manager
+
+Package: pass
+Version: 1.7.1-3
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 100
+Depends: bash, gnupg2, tree, coreutils
+Filename: dists/stable/main/binary-all/pass_1.7.1-3_all.deb
+Size: 13628
+MD5sum: 1526e653951f2793d65a287e9fb9fc97
+SHA1: 28e591a73a58361dfd19a5d782fff0b23bef5793
+SHA256: aec992afbe241258cc99c291dcc63c8d04270ffd4cf29b4c0899ad96c14fc555
+Homepage: https://www.passwordstore.org/
+Description: Lightweight directory-based password manager
+
+Package: pastebinit
+Version: 1.5
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 128
+Depends: python
+Filename: dists/stable/main/binary-all/pastebinit_1.5_all.deb
+Size: 7580
+MD5sum: f94d55660d00b90a6025dd70eb549962
+SHA1: 5d4ea2832fa9952d94c90eb57713aec288df2146
+SHA256: e1a597bd2e79ad595143e8cb1d3174a3e381f1ae06e174b0d33c30c8df1ceab3
+Homepage: https://launchpad.net/pastebinit
+Description: Command-line pastebin client
+
+Package: pathpicker
+Version: 0.7.2
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 528
+Depends: bash,python
+Filename: dists/stable/main/binary-all/pathpicker_0.7.2_all.deb
+Size: 37516
+MD5sum: 82fc6f15681199ebf3241ef82f29df77
+SHA1: 1daa28c999621d7d38bc288ea3d51a252876afb0
+SHA256: 6a0383bd39ba4b6ad655c58759c7d9ce04839192cf5c22c39cccc87662436006
+Homepage: https://facebook.github.io/PathPicker/
+Description: Facebook PathPicker - a terminal-based file picker
+
+Package: ranger
+Version: 1.8.1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 932
+Depends: python, file
+Filename: dists/stable/main/binary-all/ranger_1.8.1_all.deb
+Size: 124688
+MD5sum: 5eec6e75afaa46b888b707f554a968c7
+SHA1: 2823900ab8f57234446a49bbdb2f1ecd247a399a
+SHA256: ff9d0bb85548e30a25a00c16cf2d765d5d2ba11073425f0241c54331392fb9c6
+Homepage: http://ranger.nongnu.org/
+Description: File manager with VI key bindings
+
+Package: ruby-ri
+Version: 2.4.1-1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 68612
+Depends: ruby
+Filename: dists/stable/main/binary-all/ruby-ri_2.4.1-1_all.deb
+Size: 3097572
+MD5sum: e7975a50b184d05e6b55ac2b36c955c4
+SHA1: 1cabe12768a4c4ce2db79b012c5882e4fc64af3e
+SHA256: 2a349da11f43852f491f5688d61e6f6475bb4a49016ceae0b7ef920fef15031a
+Homepage: https://www.ruby-lang.org/
+Description: Ruby documentation index
+
+Package: ruby-ri
+Version: 2.4.2-1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 68308
+Depends: ruby
+Filename: dists/stable/main/binary-all/ruby-ri_2.4.2-1_all.deb
+Size: 3036052
+MD5sum: c05904978d91a17bdbb7766f187e515f
+SHA1: dda66694dd38404fbb0b7318c7fe67a02a422fca
+SHA256: 4988bae9fcf7504d9e4a74b7a8cdd918c41a0d9b98e80ff22fcb454819b8d784
+Homepage: https://www.ruby-lang.org/
+Description: Ruby documentation index
+
+Package: ruby-ri
+Version: 2.4.2-2
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 68308
+Depends: ruby
+Filename: dists/stable/main/binary-all/ruby-ri_2.4.2-2_all.deb
+Size: 3036492
+MD5sum: adc3097d28a8bede8d4b3c2abc2bbc40
+SHA1: 86a1a61ad87489f2f7db485b0199c021a2aa796a
+SHA256: 94973ab0bde3ac873c511af53d2ba6f4d2a33d5590242936ff30e8d27c3b10bb
+Homepage: https://www.ruby-lang.org/
+Description: Ruby documentation index
+
+Package: ruby-ri
+Version: 2.4.3
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 68328
+Depends: ruby
+Filename: dists/stable/main/binary-all/ruby-ri_2.4.3_all.deb
+Size: 3046488
+MD5sum: 5eb8afe28ba22b9d5a661de8f49ac0bb
+SHA1: 943485ebfa5b62e6f4909335343631613ed8d93a
+SHA256: b40e13b7bc07cde1096a50d8acd4074bfdd392462852e194687de6ea9660243e
+Homepage: https://www.ruby-lang.org/
+Description: Ruby documentation index
+
+Package: screenfetch
+Version: 3.8.0
+Architecture: all
+Maintainer: Pierre Rudloff @Rudloff
+Installed-Size: 260
+Depends: bash
+Filename: dists/stable/main/binary-all/screenfetch_3.8.0_all.deb
+Size: 43808
+MD5sum: 5f81d33b35df2bd5142ce30c0e185dd4
+SHA1: 486969e6a9def82259cf0268902145466b71ffac
+SHA256: fbf4f497cd4169e4fb31122553223e33fbf9ecb016bb8be42bb31b68afd329a5
+Homepage: https://github.com/KittyKatt/screenFetch
+Description: Bash Screenshot Information Tool
+
+Package: stow
+Version: 2.2.2
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 184
+Depends: perl
+Filename: dists/stable/main/binary-all/stow_2.2.2_all.deb
+Size: 24644
+MD5sum: 6d0f90df729fe9ab1eb964fa39b66406
+SHA1: c81ba1738625e0bcd9e7be86dfa3a59d961b92c6
+SHA256: ebde738818cf58117d6e65881aadd2b6a26ed564616a4fa282a8aa54846f217c
+Homepage: https://www.gnu.org/software/stow/
+Description: Tool for managing the installation of multiple software packages into a single directory
+
+Package: su
+Version: 1.1
+Architecture: all
+Maintainer: Kiva
+Installed-Size: 32
+Filename: dists/stable/main/binary-all/su_1.1_all.deb
+Size: 1792
+MD5sum: c512102936949169096d2e99e19c8629
+SHA1: 6d27ef862e49c74e4d43854fac9a63d23c32b056
+SHA256: 58e9cacfac67b4f58df3996ef8b3250aefcfb18b224f9131ce69a05f8873ccc9
+Homepage: https://github.com/zt515/neoterm-root-access-support
+Description: Root access support for NeoTerm
+
+Package: su
+Version: 1.2
+Architecture: all
+Maintainer: Kiva
+Installed-Size: 32
+Filename: dists/stable/main/binary-all/su_1.2_all.deb
+Size: 1800
+MD5sum: 05eba0bb1e64e492392a49e4b8a47b56
+SHA1: be3518d22cf2e1d47c4328c8acc157ac7f6bfb73
+SHA256: 064fd5aeb36653b5049077fdd3a0e86b004f89e3ff0a4f157001b98a8209ae3e
+Homepage: https://github.com/zt515/neoterm-root-access-support
+Description: Root access support for NeoTerm
+
+Package: su
+Version: 1.3
+Architecture: all
+Maintainer: Kiva
+Installed-Size: 32
+Filename: dists/stable/main/binary-all/su_1.3_all.deb
+Size: 1820
+MD5sum: a92d14bd572e264182422f8459975d51
+SHA1: 3f11101c8e978959a451effcc5bd1e9a07cdfac9
+SHA256: ba4879b875f794c3ba5568f0a39f275b8b0d1a56d73d2cfb366cd26ccb998d02
+Homepage: https://github.com/zt515/neoterm-root-access-support
+Description: Root access support for NeoTerm
+
+Package: su
+Version: 1.4
+Architecture: all
+Maintainer: Kiva
+Installed-Size: 32
+Filename: dists/stable/main/binary-all/su_1.4_all.deb
+Size: 1916
+MD5sum: 8c87da25e4807435dea6218bbb01f66c
+SHA1: c633508e7e5a3fb167e4e9ee8e760007c97b753f
+SHA256: 1524fa1adc4105a016ee9972a65e9a4e8f79d11f1f6dcd9804e9223c63b2d43b
+Homepage: https://github.com/zt515/neoterm-root-access-support
+Description: Root access support for NeoTerm
+
+Package: su
+Version: 1.5
+Architecture: all
+Maintainer: Kiva
+Installed-Size: 32
+Filename: dists/stable/main/binary-all/su_1.5_all.deb
+Size: 1892
+MD5sum: b09af8c970038cf4ad6efc64f17946a6
+SHA1: cab016240622384d12626c446f7d2ba0919371c1
+SHA256: 82dff2855411c8559b9175ab40a42bbfaf7e497c9e8849b53fc4b9d0ec6dc477
+Homepage: https://github.com/NeoTerm/neoterm-su
+Description: Root access support for NeoTerm
+
+Package: texlive
+Version: 20170524-3
+Architecture: all
+Maintainer: Henrik Grimler @Grimler91
+Installed-Size: 51664
+Depends: wget, perl, xz-utils, gnupg2, texlive-bin (>= 20170524)
+Filename: dists/stable/main/binary-all/texlive_20170524-3_all.deb
+Size: 6635916
+MD5sum: 3d1a95f475466f585f288f2854feb145
+SHA1: 56101a110d63c2d5755a9d76f7d8503c37fe906b
+SHA256: 8890b1e8b1bb0240c63fcb95f3e05fdbf77a80b19b26d7e927bbb775d7cfcfff
+Homepage: https://www.tug.org/texlive/
+Description: TeX Live is a distribution of the TeX typesetting system.
+
+Package: texlive
+Version: 20170524-4
+Architecture: all
+Maintainer: Henrik Grimler @Grimler91
+Installed-Size: 51664
+Depends: wget, perl, xz-utils, gnupg2, texlive-bin (>= 20170524)
+Filename: dists/stable/main/binary-all/texlive_20170524-4_all.deb
+Size: 6618276
+MD5sum: df43f3dc6e03c5baa776e51e0e976fd8
+SHA1: 861c768217df7a0ac57187d51ad06c5180f29500
+SHA256: abf5fbdf2aa52db4275eec30b25aa4345c6fb57efddf939487b719bae383905e
+Homepage: https://www.tug.org/texlive/
+Description: TeX Live is a distribution of the TeX typesetting system.
+
+Package: vcsh
+Version: 1.20151229
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 88
+Depends: git
+Filename: dists/stable/main/binary-all/vcsh_1.20151229_all.deb
+Size: 11176
+MD5sum: 3c9587708fc50bca5112a5ea929d7e83
+SHA1: 6c2b4d05bb01abc82b4987a951d53e95c1bfecaf
+SHA256: ac58eeb46df190a978e3165678686e97306db498d5b0fcaa96c692b9f27064be
+Homepage: https://github.com/RichiH/vcsh
+Description: Config manager based on Git
+
+Package: vim-runtime
+Version: 8.0.0627
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20488
+Filename: dists/stable/main/binary-all/vim-runtime_8.0.0627_all.deb
+Size: 3767076
+MD5sum: 8565935be07bd35c2e1c112a172d84bb
+SHA1: fb129f66153f839f5c20810c881ed55636c69c23
+SHA256: 5f6ec594441da64e73fda2069034ba77e114c3b56747b7b4eecc19b15a92efa9
+Homepage: http://www.vim.org/
+Description: Vi IMproved - Runtime files
+
+Package: vim-runtime
+Version: 8.0.0675
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20484
+Filename: dists/stable/main/binary-all/vim-runtime_8.0.0675_all.deb
+Size: 3767124
+MD5sum: 81f25b3057af8637e5bca1ecdd1a315c
+SHA1: bda2cc24b970c13caaf7a69e88a8e653d3f70c33
+SHA256: 39ed154b4877405879f14a7952b02f82403efc21050711f91a32195a51474992
+Homepage: http://www.vim.org/
+Description: Vi IMproved - Runtime files
+
+Package: vim-runtime
+Version: 8.0.0753
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20516
+Filename: dists/stable/main/binary-all/vim-runtime_8.0.0753_all.deb
+Size: 3772008
+MD5sum: a910340cbc800686b3ff4a5a65f7b15a
+SHA1: 839b5bfd1a087143c40c3d7ff1be57b3df00a2ec
+SHA256: c71a2145dd058043c6ed70c83ee817a19c3324ea13291c78665c835c5b1071fb
+Homepage: http://www.vim.org/
+Description: Vi IMproved - Runtime files
+
+Package: vim-runtime
+Version: 8.0.0858
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20520
+Filename: dists/stable/main/binary-all/vim-runtime_8.0.0858_all.deb
+Size: 3774784
+MD5sum: 42e92b4499d4b0cdf81691760d170a8b
+SHA1: ccc1f65eda79ad663efbf2947e11eb8931a71409
+SHA256: 95480bbf1facd8ed6df46c46dd4791897629ef19679bac5a5d56c35ee2e5b149
+Homepage: http://www.vim.org/
+Description: Vi IMproved - Runtime files
+
+Package: vim-runtime
+Version: 8.0.0887
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20524
+Filename: dists/stable/main/binary-all/vim-runtime_8.0.0887_all.deb
+Size: 3774560
+MD5sum: 120a838632989a4634311b49f1b49a7d
+SHA1: acc92281c32fa43b0fad82f891ed325ec1d25358
+SHA256: a5c51f8daaebe1302de3150e576239bf2ad386fdd51fc6b8e7eefde1daccb9a3
+Homepage: http://www.vim.org/
+Description: Vi IMproved - Runtime files
+
+Package: vim-runtime
+Version: 8.0.0979
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20528
+Filename: dists/stable/main/binary-all/vim-runtime_8.0.0979_all.deb
+Size: 3777904
+MD5sum: ea6ea6a0026cb74774ed067131dd3356
+SHA1: dec6b5093bb2d12576b8243662c4d3342898fe40
+SHA256: d52b74c49b74861fa0aba237ce45efaf0b40b57b371247057fc81039650b8535
+Homepage: http://www.vim.org/
+Description: Vi IMproved - Runtime files
+
+Package: vim-runtime
+Version: 8.0.1064
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20568
+Filename: dists/stable/main/binary-all/vim-runtime_8.0.1064_all.deb
+Size: 3782508
+MD5sum: 0adb91b56254b04e28cf0f968fe8dc9f
+SHA1: dc18712410970ad11af9f319ef984c5013f2be55
+SHA256: 5e388343fd2c0756b90a3a39538eac0e27a909137ee5103101a514e67111b71f
+Homepage: http://www.vim.org/
+Description: Vi IMproved - Runtime files
+
+Package: vim-runtime
+Version: 8.0.1112
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20576
+Filename: dists/stable/main/binary-all/vim-runtime_8.0.1112_all.deb
+Size: 3785484
+MD5sum: 2bb7ae8b73bc04509a4cd2fd0ae4855a
+SHA1: 9a5f854ebbe21fbdb6f94b9a75c0e021fb001af8
+SHA256: 3c38e10b157e7be3e996acdcccca36b8f5eaf97ce99ca102a374295b27ede6cd
+Homepage: http://www.vim.org/
+Description: Vi IMproved - Runtime files
+
+Package: vim-runtime
+Version: 8.0.1180
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20660
+Filename: dists/stable/main/binary-all/vim-runtime_8.0.1180_all.deb
+Size: 3802464
+MD5sum: e4e39f60934ef02a9c3711acf7e5d6fa
+SHA1: 40ce05c35bbb28d43cb600a1c741c6f265823941
+SHA256: cf672871858468a20b161a3a2777bb22c0740385b65da39d9b67af15a3bcf0de
+Homepage: http://www.vim.org/
+Description: Vi IMproved - Runtime files
+
+Package: vim-runtime
+Version: 8.0.1203
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20664
+Filename: dists/stable/main/binary-all/vim-runtime_8.0.1203_all.deb
+Size: 3802608
+MD5sum: 48993b34fdddea2f9a183a933d93ba91
+SHA1: 2159fe0f161ddbda15ced994eccd5984209bf1b0
+SHA256: e949bf4ac62d60c8c1bdb13aeaf22277e8eaa77e512dfc6469801bdb99fa6f22
+Homepage: http://www.vim.org/
+Description: Vi IMproved - Runtime files
+
+Package: vim-runtime
+Version: 8.0.1241
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20664
+Filename: dists/stable/main/binary-all/vim-runtime_8.0.1241_all.deb
+Size: 3803036
+MD5sum: 5c4d427a79cd3dcba9b96f88ae902bf5
+SHA1: b297ab01b06e164cc075664d1c1b8409746b2da0
+SHA256: 0bc5156010b9c77b175950098ad57eef6e12a3b447905a913f6bb9c6bb6b7fe3
+Homepage: http://www.vim.org/
+Description: Vi IMproved - Runtime files
+
+Package: vim-runtime
+Version: 8.0.1350
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20816
+Filename: dists/stable/main/binary-all/vim-runtime_8.0.1350_all.deb
+Size: 3820500
+MD5sum: 6ef45d70866ecfb806888049a6296d2c
+SHA1: ee1e01f772b01fa627cbc616e9d74ea9a04241df
+SHA256: a9f47e627c6b5168ad026ead4684ad300915f3d33310a2fa141d432cfe6b4604
+Homepage: http://www.vim.org/
+Description: Vi IMproved - Runtime files
+
+Package: vim-runtime
+Version: 8.0.1400
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 20796
+Filename: dists/stable/main/binary-all/vim-runtime_8.0.1400_all.deb
+Size: 3823428
+MD5sum: 74312f571e867baa84c22cedd2d9c595
+SHA1: e9276d4f0bdea27bcfaaed19e804a3586e5e5d4b
+SHA256: bddb2886831a3282a45c707abbf09af3d70c010499bdc733f3ff8968d1c1616c
+Homepage: http://www.vim.org/
+Description: Vi IMproved - Runtime files
+
+Package: x11-proto
+Version: 1.19.1
+Architecture: all
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 1360
+Filename: dists/stable/main/binary-all/x11-proto_1.19.1_all.deb
+Size: 144588
+MD5sum: da624135ac6c10dbda403e2dd9f229a3
+SHA1: 629717699b8c3a96fa70aa30cf35c8658857f486
+SHA256: 6f058890542a8e955f3255f61d7b07d3a174155d9536b6598f61d70ec771cdc2
+Homepage: https://www.x.org
+Description: FIXME:Add description
+
+Package: xorg-neoterm-data-common
+Version: 1.6.2
+Architecture: all
+Maintainer: Kiva @zt515
+Installed-Size: 6084
+Filename: dists/stable/main/binary-all/xorg-neoterm-data-common_1.6.2_all.deb
+Size: 547600
+MD5sum: 9b900e165611d3300087fb72d0e8616d
+SHA1: d22d019db61e8c88a24b24bd7cdc63708d9774e3
+SHA256: 69071a665b001d283bc14c5b7863b45ac921772ba128bf686aec1fe50769fed1
+Homepage: https://github.com/NeoTerm/XServer
+Description: Xorg data files
+
+Package: yarn
+Version: 1.3.2
+Architecture: all
+Maintainer: Pierre Rudloff @Rudloff
+Installed-Size: 4016
+Depends: nodejs
+Filename: dists/stable/main/binary-all/yarn_1.3.2_all.deb
+Size: 669744
+MD5sum: bd08c8018aec13d567f88656591346c0
+SHA1: 93fd7275f8f986816eec5215f276740c925634c9
+SHA256: 4e591026f166efbca1500ac36d535177b8c0011c56ff81b3db94371717e90731
+Homepage: https://yarnpkg.com/
+Description: Fast, reliable, and secure dependency management
+

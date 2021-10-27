@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: stable
+Version: 1
+Architectures: all aarch64
+Description: NeoTerm stable packages
+Suite: stable
+Date: Sat, 13 Jul 2019 06:07:40 UTC
+SHA256:
+ 6bdba1d2a4ddc8753ef21d5dd787684a53ca6b82ba1b8b036b7570f3dde027cc 11652 main/binary-all/Packages.xz
+ 16d4a998a15600240c3d8d9e854a805976cffe002a127d63bbf5566f7fce7818 45498 main/binary-all/Packages
+ 45b90767d3591f3c4fca2d6ef311b68e620828167594236849ee791c4f79b358 215616 main/binary-aarch64/Packages.xz
+ 33f129d3a276f058578b8fad407480130130d952ec15ad7b6d9ae2a49b28f58f 1031065 main/binary-aarch64/Packages
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275 32 extra/binary-all/Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 extra/binary-all/Packages
+ c7b34080f7f580607770e839acadda527a2f4d9cfec35add96f1898d4f94a187 492 extra/binary-aarch64/Packages.xz
+ d233d3c210db2b41f5b5ae7e153c8f227d6c4622b928358deb34e1693e519192 583 extra/binary-aarch64/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEJWTq+Nzf0Mw9mozLoKQKgWsWiaoFAl0ped0ACgkQoKQKgWsW
+iaomJw/+Nef2WjI94cq7ltjWWSAMKXjSOHSGwG6OjFnNpBSDoqxSUyI1KA9MSxGr
+u6AncQsnEdKDK1vzs3nuJsLLJB3YAnc9dzJicxj71DkStZJ0EZn6y6dNUYU7NvYQ
+Bm+T3VRqKgnyLKaUI80zkBiH+E1a4KVmlsaDX5m77xHT/XbGpE7FK5Db79dWC/qX
+7tNgDwoLK5YBtb+iMQJiYCghNHHjK7Y8fig2x1KWVpxF+LEJd8Z/XY4EBiTIdwPi
+rYmLlsHpiVW8VlnXgUK6jQbtt0cP3ZzPjreMch4BSUtRJqJu6wnNDjfkbz/d5InG
+rcgNl62c4GPilU/68YI7+PixQpdjZDA9sHWJpNdCW7NolCXOu+ikbC0EWXG1GuUp
+1QXppOH0T6dbDFNC3SwKyrVnFLLopns4uXP7fyWElZu3zuSd1rUPknZzvQwdX0Ao
+RcMa5iXaSs1hF1m5xt/2vL3M0Z7Ulg8SVA7oa8Vl52hy64T3yWWLSKkWcNxwe0Wj
+wAxr4dil+Q6FlzVSh+y6QBcVOevTEXxh8Ii9Qcms+9Kp+P7LaG7TuAtDidMzWWfs
+8rDrp+Lk5Vd+u0w0/fZJrfPBrFsUqewunMBco2bcntC5WYhK454CZJf+wECG1aZi
+ritHSTL5LsaUuxLvAjTCJSKgfPrQTv+NNo3f87UAV756W3DJKLU=
+=vs9M
+-----END PGP SIGNATURE-----

@@ -1,0 +1,14 @@
+Package: AriaNg-Terminal-Controler-For-Neoterm
+Version: 1.0
+Architecture: aarch64
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 3650148
+Depends: libssh2, aria2, readline, lighttpd
+Filename: dists/stable/extra/binary-aarch64/ariang-terminal-controler-for-neoterm_1.0_aarch64.deb
+Size: 1259262
+MD5sum: c9f386456ce3767f8ee84b6489403622
+SHA1: d2f70c11f93b1927b2f9afe537b867bc9227dd63
+SHA256: 082dd0326b5b38dcaeb0ef0c6112f0882a916a9500b3e0452b6f78b49300e684
+Homepage: https://github.com/Saint-Theana/Terminal-AriaNg-For-Android
+Description: Terminal Tools for controling AriaNg
+
