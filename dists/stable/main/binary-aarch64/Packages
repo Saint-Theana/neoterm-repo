@@ -21201,6 +21201,48 @@ SHA256: fa2bff3d200f9431af5967f0662a941076d82975567d74e824513b1539b86911
 Homepage: http://openjdk.java.net/projects/jdk9
 Description: OpenJDK Development Kit (JDK) (headless)
 
+Package: openjdk-17-jdk
+Version: 17-internal
+Architecture: aarch64
+Maintainer: Vishal Biswas @vishalbiswas
+Installed-Size: 302939954
+Depends: openjdk-17-jre, openjdk-17-jdk-module
+Filename: dists/stable/main/binary-aarch64/openjdk-17-jdk_17-internal_aarch64.deb
+Size: 80979476
+MD5sum: c973f587e6ebda967ddfdf02b39eb61f
+SHA1: 82cbc2eac78768b8288723dd736706cfeff89b5a
+SHA256: 0fcc9796908ff0bc021cc540db8153077598f820c31e963be487dc8444118576
+Homepage: http://openjdk.java.net/projects/jdk17
+Description: OpenJDK Development Kit (JDK)
+
+Package: openjdk-17-jdk-mudules
+Version: 17-internal
+Architecture: aarch64
+Maintainer: Vishal Biswas @vishalbiswas
+Installed-Size: 302939954
+Depends: 
+Filename: dists/stable/main/binary-aarch64/openjdk-17-jdk-modules_17-internal_aarch64.deb
+Size: 76779012
+MD5sum: 291233e28d38dd3a15392c5aa26f96fc
+SHA1: e218536c3ae3c8433a374dfbc9daa9fda6a5de5c
+SHA256: 709b58a96a6c4b5018cdaa4059f5c304b8a4ddf2ed50c4acb14c6236c6dbf54c
+Homepage: http://openjdk.java.net/projects/jdk17
+Description: OpenJDK Development Kit (JDK)
+
+Package: openjdk-17-jre
+Version: 17-internal
+Architecture: aarch64
+Maintainer: Vishal Biswas @vishalbiswas
+Installed-Size: 102939954
+Depends: 
+Filename: dists/stable/main/binary-aarch64/openjdk-17-jre_17-internal_aarch64.deb
+Size: 37514576
+MD5sum: b72381a8810f8ed865d2b2cafe5e88d8
+SHA1: 7053a01a1e176bf003ae1442bd4bddc6da5555ea
+SHA256: 21207a3e85a27240300c45959f6153a5503b8b93a0427694d80c0d28f1e03291
+Homepage: http://openjdk.java.net/projects/jdk17
+Description: OpenJDK Runtime Environment (JRE)
+
 Package: openjdk-9-jdk-headless
 Version: 9.2017.8.20-1
 Architecture: aarch64
