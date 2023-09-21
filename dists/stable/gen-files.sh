@@ -6,8 +6,8 @@ SELF_DIR="$(dirname $(readlink -f $0))"
 source "$SELF_DIR/config.sh"
 
 echo "* Generating index"
-$SELF_DIR/gen-release.sh > Release
-$SELF_DIR/gen-release.sh > InRelease
+bash $SELF_DIR/gen-release.sh > Release
+bash $SELF_DIR/gen-release.sh > InRelease
 
 echo "* Signing"
 gpg -abs --default-key $GPG_KEY -o Release.gpg Release

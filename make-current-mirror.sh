@@ -10,9 +10,9 @@ if [[ "$1" != "--no-gather" ]]; then
         REPO_SRC="${REPOS[$REPO_NAME]}"
         echo " * Building $REPO_NAME from $REPO_SRC"
         
-        ./gather-packages.sh "$REPO_NAME" "$REPO_SRC"
+        bash ./gather-packages.sh "$REPO_NAME" "$REPO_SRC"
     done
 fi
 
-./update-package-info.sh
+bash ./update-package-info.sh
 

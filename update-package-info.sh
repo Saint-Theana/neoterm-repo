@@ -37,7 +37,7 @@ wait
 
 for CODE_NAME in ${!CODE_NAMES[@]}; do
     echo " * Building code name $CODE_NAME"
-    (cd dists/stable && ./gen-files.sh)
+    (cd dists/stable && bash ./gen-files.sh)
 done
 
 find dists -type f -name "*.deb" > filelist.local

@@ -21208,10 +21208,10 @@ Maintainer: Vishal Biswas @vishalbiswas
 Installed-Size: 644
 Depends: openjdk-9-jre-headless
 Filename: dists/stable/main/binary-aarch64/openjdk-9-jdk-headless_9.2017.8.20-1_aarch64.deb
-Size: 35168
-MD5sum: b7f5cd7d9cc1fcbc3784c0dc8d3608a9
-SHA1: 7875ef211ee4bb48067932fa9ae166c30a7a73e4
-SHA256: ae8614ccf00f9c044e63d812e908c62d0693c97645096dc6247b4a7284099f86
+Size: 84462489
+MD5sum: fc9bdc8679ccfa218543f5509087853b
+SHA1: ba25647e84979729a7d0a0c1bb0271a6e501023e
+SHA256: c89823d4bfa364fbed504850e1da800406ddb383dd7ca846add8b3fac4f9fa03
 Homepage: http://openjdk.java.net/projects/jdk9
 Description: OpenJDK Development Kit (JDK) (headless)
 
@@ -21223,9 +21223,9 @@ Installed-Size: 393324
 Depends: freetype, libpng, ca-certificates-java
 Filename: dists/stable/main/binary-aarch64/openjdk-9-jre-headless_9.2017.8.20_aarch64.deb
 Size: 244600292
-MD5sum: 2d67c2483a5df97515c7509a9c666c8e
-SHA1: a8127ca94edb5bab7b5ef9e9b128fed9825ae6a4
-SHA256: c2050b952391a74129e27bc8f1dd8ffaa956efa0e73ed9c28f8e29fec113e873
+MD5sum: 19a3fc08fe550f8ffabb31ca009b63bf
+SHA1: e1fef3c214a8609eaf92449602dbcb5b2ee93eba
+SHA256: 1110fb9ac952f0286833bd011490288670635fab3e4da82841450b4c4842d7a2
 Homepage: http://openjdk.java.net/projects/jdk9
 Description: OpenJDK 9 Java Runtime Environment (prerelease)
 
@@ -21236,10 +21236,10 @@ Maintainer: Vishal Biswas @vishalbiswas
 Installed-Size: 393324
 Depends: freetype, libpng, ca-certificates-java
 Filename: dists/stable/main/binary-aarch64/openjdk-9-jre-headless_9.2017.8.20-1_aarch64.deb
-Size: 244605076
-MD5sum: aed64b0d2e2131863edb0f3a7f057238
-SHA1: 892b6be9c4532580a3e484f18d16476ab131eec5
-SHA256: 37eb5e8943cd5d1085e220f77e70a485e70d95696dcf44d871e4167ca910ef28
+Size: 181226978
+MD5sum: 19a3fc08fe550f8ffabb31ca009b63bf
+SHA1: e1fef3c214a8609eaf92449602dbcb5b2ee93eba
+SHA256: 1110fb9ac952f0286833bd011490288670635fab3e4da82841450b4c4842d7a2
 Homepage: http://openjdk.java.net/projects/jdk9
 Description: OpenJDK 9 Java Runtime Environment (prerelease)
 
