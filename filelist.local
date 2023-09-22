@@ -1,5 +1,7 @@
 dists/stable/extra/binary-aarch64/mongo-tools_9.2023.9.22-1_aarch64.deb
 dists/stable/extra/binary-aarch64/mongodb_9.2023.9.22-1_aarch64.deb
+dists/stable/extra/binary-aarch64/openjdk-17-jre-headless_17.2023.9.22-1_aarch64.deb
+dists/stable/extra/binary-aarch64/openjdk-17-jdk-headless_17.2023.9.22-1_aarch64.deb
 dists/stable/main/binary-aarch64/aapt_7.0.0.14-1_aarch64.deb
 dists/stable/main/binary-aarch64/aapt_7.0.0.14-2_aarch64.deb
 dists/stable/main/binary-aarch64/aapt_7.1.2.33-1_aarch64.deb

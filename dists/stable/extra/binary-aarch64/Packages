@@ -24,3 +24,29 @@ SHA256: 3c4d8a58180d46aab8bc02da328876fd48312fa99dbced4f2a2c14db5988d2b5
 Homepage: https://mongodb.com
 Description: Mongodb Tools
 
+Package: openjdk-17-jre-headless
+Version: 17.2023.9.23-1
+Architecture: aarch64
+Maintainer: Saint-Theana @github
+Installed-Size: 75941
+Filename: dists/stable/extra/binary-aarch64/openjdk-17-jre-headless_17.2023.9.22-1_aarch64.deb
+Size: 69333156
+MD5sum: bc1a1063c200ed3329ca628b01fe077d
+SHA1: 09c5a87d9c39012b432f83dfe3b4e9fe0b1c1510
+SHA256: 8a771075ff2c0ce31b7387f9c08e61147c7276cf279cf5649f668e9b21a98e88
+Homepage: https://openjdk.org
+Description: openjdk 17
+
+Package: openjdk-17-jdk-headless
+Version: 17.2023.9.23-1
+Architecture: aarch64
+Maintainer: Saint-Theana @github
+Installed-Size: 220920
+Filename: dists/stable/extra/binary-aarch64/openjdk-17-jdk-headless_17.2023.9.22-1_aarch64.deb
+Size: 84348172
+MD5sum: 7400fe3703056c9cd88120b1ceeea44b
+SHA1: e61975150c21328849125c36405509129ba031ad
+SHA256: 5b0364231afa4b436d9d985547992dc37036130c704bc09b81e391cdfd8db913
+Homepage: https://openjdk.org
+Description: openjdk 17
+Depends: openjdk-17-jre-headless
