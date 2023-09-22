@@ -31,9 +31,9 @@ Maintainer: Saint-Theana @github
 Installed-Size: 75941
 Filename: dists/stable/extra/binary-aarch64/openjdk-17-jre-headless_17.2023.9.22-1_aarch64.deb
 Size: 69333156
-MD5sum: bc1a1063c200ed3329ca628b01fe077d
-SHA1: 09c5a87d9c39012b432f83dfe3b4e9fe0b1c1510
-SHA256: 8a771075ff2c0ce31b7387f9c08e61147c7276cf279cf5649f668e9b21a98e88
+MD5sum: 9c1b7c240d0682fab1518858e3bbd072
+SHA1: 4fbc010d5fe046302bef7b2b338ad7e0cfc2b505
+SHA256: 848924760b8d104a4c2e20cce510e1b5970a3326b6cef0f5646a8676000267ec
 Homepage: https://openjdk.org
 Description: openjdk 17
 

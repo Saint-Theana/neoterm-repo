@@ -380,9 +380,7 @@ dists/stable/main/binary-aarch64/gettext-dev_0.19.8_aarch64.deb
 dists/stable/main/binary-aarch64/gettext_0.19.8-1_aarch64.deb
 dists/stable/main/binary-aarch64/gettext_0.19.8-2_aarch64.deb
 dists/stable/main/binary-aarch64/gettext_0.19.8_aarch64.deb
-dists/stable/main/binary-aarch64/ghostscript_9.21_aarch64.deb
 dists/stable/main/binary-aarch64/ghostscript_9.22-1_aarch64.deb
-dists/stable/main/binary-aarch64/ghostscript_9.22_aarch64.deb
 dists/stable/main/binary-aarch64/gifsicle_1.88_aarch64.deb
 dists/stable/main/binary-aarch64/gifsicle_1.89_aarch64.deb
 dists/stable/main/binary-aarch64/gifsicle_1.90_aarch64.deb
@@ -457,10 +455,7 @@ dists/stable/main/binary-aarch64/gnutls_3.5.15-1_aarch64.deb
 dists/stable/main/binary-aarch64/gnutls_3.5.15_aarch64.deb
 dists/stable/main/binary-aarch64/gnutls_3.5.16-1_aarch64.deb
 dists/stable/main/binary-aarch64/gnutls_3.5.16_aarch64.deb
-dists/stable/main/binary-aarch64/golang_2:1.8.3_aarch64.deb
-dists/stable/main/binary-aarch64/golang_2:1.9.1_aarch64.deb
 dists/stable/main/binary-aarch64/golang_2:1.9.2_aarch64.deb
-dists/stable/main/binary-aarch64/golang_2:1.9_aarch64.deb
 dists/stable/main/binary-aarch64/googletest_1.8.0-1_aarch64.deb
 dists/stable/main/binary-aarch64/googletest_1.8.0_aarch64.deb
 dists/stable/main/binary-aarch64/gperf_3.1_aarch64.deb
@@ -1577,7 +1572,6 @@ dists/stable/main/binary-aarch64/pcre_8.40-1_aarch64.deb
 dists/stable/main/binary-aarch64/pcre_8.40_aarch64.deb
 dists/stable/main/binary-aarch64/pcre_8.41-1_aarch64.deb
 dists/stable/main/binary-aarch64/pcre_8.41_aarch64.deb
-dists/stable/main/binary-aarch64/perl_5.26.0_aarch64.deb
 dists/stable/main/binary-aarch64/perl_5.26.1_aarch64.deb
 dists/stable/main/binary-aarch64/pforth_20170116-1_aarch64.deb
 dists/stable/main/binary-aarch64/pforth_20170116_aarch64.deb
