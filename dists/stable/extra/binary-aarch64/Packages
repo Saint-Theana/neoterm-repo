@@ -2,7 +2,7 @@ Package: mongodb
 Version: 1.0
 Architecture: aarch64
 Maintainer: Saint-Theana @github
-Installed-Size: 146970952
+Installed-Size: 146970
 Filename: dists/stable/extra/binary-aarch64/mongodb_9.2023.9.22-1_aarch64.deb
 Size: 38286932
 MD5sum: 99dfd86ab20a0ef0dc3d2d05b493aa6d
@@ -15,7 +15,7 @@ Package: mongo-tools
 Version: 1.0
 Architecture: aarch64
 Maintainer: Saint-Theana @github
-Installed-Size: 100355040
+Installed-Size: 100355
 Filename: dists/stable/extra/binary-aarch64/mongo-tools_9.2023.9.22-1_aarch64.deb
 Size: 24371424
 MD5sum: 8b8515a34fef03ba853943941dce6923
