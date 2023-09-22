@@ -21208,7 +21208,7 @@ Maintainer: Vishal Biswas @vishalbiswas
 Installed-Size: 644
 Depends: openjdk-9-jre-headless
 Filename: dists/stable/main/binary-aarch64/openjdk-9-jdk-headless_9.2017.8.20-1_aarch64.deb
-Size: 84462489
+Size: 74941344
 MD5sum: 41af7dfe9750f4749c523c08bc2a4ad2
 SHA1: 0e789d36e60387029c00e18c6887ee3cdd5b38fc
 SHA256: 96d9e393bc20d15f8b44be6b2984188e27b3a679e5d4d3c1e2028a505f1af625
@@ -21236,7 +21236,7 @@ Maintainer: Vishal Biswas @vishalbiswas
 Installed-Size: 393324
 Depends: freetype, libpng, ca-certificates-java
 Filename: dists/stable/main/binary-aarch64/openjdk-9-jre-headless_9.2017.8.20-1_aarch64.deb
-Size: 181226978
+Size: 40903656
 MD5sum: 19a3fc08fe550f8ffabb31ca009b63bf
 SHA1: e1fef3c214a8609eaf92449602dbcb5b2ee93eba
 SHA256: 1110fb9ac952f0286833bd011490288670635fab3e4da82841450b4c4842d7a2
