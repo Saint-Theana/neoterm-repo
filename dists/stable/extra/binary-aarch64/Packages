@@ -4,7 +4,7 @@ Architecture: aarch64
 Maintainer: Saint-Theana @github
 Installed-Size: 147412
 Filename: dists/stable/extra/binary-aarch64/mongodb_9.2023.9.22-1_aarch64.deb
-Size: 38286932
+Size: 38583476
 MD5sum: d2afdee034091b5bf8e2fe3b1508bb42
 SHA1: 72a188fa4d748ab13ba1687f3615c48685869105
 SHA256: 18c6c5731d06d38372e987ddd5f73a569bbf79113fa46596b6193c472d741254
@@ -17,7 +17,7 @@ Architecture: aarch64
 Maintainer: Saint-Theana @github
 Installed-Size: 100379
 Filename: dists/stable/extra/binary-aarch64/mongo-tools_9.2023.9.22-1_aarch64.deb
-Size: 24371424
+Size: 24376976
 MD5sum: f9703f59360df0d4ec5549ab9f6971f5
 SHA1: 3c120b4deb817f3b68e6b6fb134859a5b5328e10
 SHA256: 3c4d8a58180d46aab8bc02da328876fd48312fa99dbced4f2a2c14db5988d2b5
